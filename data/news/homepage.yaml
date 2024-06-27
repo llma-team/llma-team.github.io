@@ -1,0 +1,11 @@
+# 英文主页展示的新闻
+en:
+  - title: xx paper accepted by xx (<b>CCF A</b>)
+    date: 2024-6
+    icon: 🎉
+
+# 中文主页展示的新闻
+zh:
+  - title: xx文章被xx接收(<b>CCF A</b>)
+    date: 2024-6
+    icon: 🎉
